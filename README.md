@@ -1,7 +1,7 @@
 # ¡Hola! Soy Andres Soto 👋
 
 <p align="center">
-  <img src="https://www.freepik.es/vector-premium/icono-usuario-profesional-diseno-plano-aislado-conjunto-primitivo_349101786.htm#fromView=keyword&page=1&position=12&uuid=3a566dc0-872b-41a8-a933-3e282978a4db&query=Perfil+avatar" alt="Mi Foto" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/AFSoto/portafolio/blob/main/assets/img/foto_perfil.png" alt="Mi Foto" width="200" style="border-radius: 50%;">
 </p>
 
 ### 👨‍💻 Sobre mí
