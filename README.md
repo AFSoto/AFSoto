@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en varios proyectos algunos personales otros de amigos para practicar.
 - 🌱 Estoy aprendiendo **LARAVEL,REACT,DOCKER,AWS**.
 - 💬 Pregúntame sobre **temas de interes**.
-- ⚡ Dato curioso: **cuando empezo no sabia nada de esto**.
+- ⚡ Dato curioso: **cuando empeze no sabia ni como funcionaba el internet**.
 
 ---
 
